@@ -1,0 +1,49 @@
+{
+    "carrinho": {
+      "itens": [
+        {
+          "id_produto": 101,
+          "nome_produto": "Coleira de Nylon para Cães",
+          "categoria": "Coleiras",
+          "especificacoes": {
+            "tamanho": "M",
+            "cor": "Azul",
+            "material": "Nylon"
+          },
+          "quantidade": 1,
+          "preco_unitario": 9.99,
+          "preco_total": 9.99
+        },
+        {
+          "id_produto": 102,
+          "nome_produto": "Peitoral de Couro para Gatos",
+          "categoria": "Peitorais",
+          "especificacoes": {
+            "tamanho": "P",
+            "cor": "Preto",
+            "material": "Couro"
+          },
+          "quantidade": 1,
+          "preco_unitario": 9.99,
+          "preco_total": 9.99
+        },
+        {
+          "id_produto": 103,
+          "nome_produto": "Guia Retrátil para Cães",
+          "categoria": "Acessórios",
+          "especificacoes": {
+            "tamanho": "Único",
+            "cor": "Vermelho",
+            "comprimento": "5 metros"
+          },
+          "quantidade": 1,
+          "preco_unitario": 9.99,
+          "preco_total": 9.99
+        }
+      ],
+      "resumo": {
+        "quantidade_total": 4,
+        "valor_total": 9.99
+      }
+    }
+  }
